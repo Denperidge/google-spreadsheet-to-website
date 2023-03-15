@@ -1,0 +1,13 @@
+{
+  "name": "crowdsourced-safe-spaces",
+  "source": "src/index.pug",
+
+  "devDependencies": {
+    "@parcel/transformer-pug": "^2.8.3",
+    "parcel": "^2.8.3"
+  },
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  }
+}
